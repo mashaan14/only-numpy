@@ -5,4 +5,4 @@ Breaking machine learning algorithms into small pieces written in numpy function
 | :--- | :---: | :---: |
 | Principal Component Analysis ($PCA$) | [code](https://github.com/mashaan14/only-numpy/blob/main/only_numpy_pca.ipynb) | [video](https://youtube.com/shorts/K4GjsVPy9KY?feature=share) |
 | $k$-means | [code](https://github.com/mashaan14/only-numpy/blob/main/only_numpy_kmeans.ipynb) | [video](https://youtube.com/shorts/t7JJEy70YFA?feature=share) |
-| spectral clustering | [code](https://github.com/mashaan14/only-numpy/blob/main/only_numpy_spectral_clustering.ipynb) | [video]() |
+| spectral clustering | [code](https://github.com/mashaan14/only-numpy/blob/main/only_numpy_spectral_clustering.ipynb) | [video](https://youtube.com/shorts/ccWOllnyrH4?feature=share) |
