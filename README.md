@@ -1,5 +1,5 @@
 # only-numpy
-Breaking machine learning algorithms into small pieces written in [numpy](https://numpy.org/) functions.
+Coding some machine learning algorithms using [numpy](https://numpy.org/) functions.
 
 | Algorithm |&nbsp;|&nbsp;|
 | :--- | :---: | :---: |
